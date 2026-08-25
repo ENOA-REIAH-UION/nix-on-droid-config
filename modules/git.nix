@@ -20,6 +20,9 @@
     [log]
       date = format:%Y-%m-%d %H:%M:%S
 
+    [init]
+      defaultBranch = main
+
     [url "ssh://git@github.com/"]
       insteadOf = https://github.com/
 
