@@ -1,0 +1,24 @@
+# Claude Code
+.claude/
+
+# Nix
+result
+result-*
+*.drv
+
+# Build outputs
+.direnv/
+envrc
+
+# Editor and IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config overrides
+*.local
