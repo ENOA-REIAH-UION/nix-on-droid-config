@@ -37,5 +37,6 @@ in {
   environment.packages = [
     neovim-unwrapped
     pkgs.tree-sitter
+		pkgs.ripgrep
   ];
 }
